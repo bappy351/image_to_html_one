@@ -21,7 +21,7 @@ header {
 }
 
 .logo {
-    width: 16%;
+    width: 18%;
     float: left;
 
 }
@@ -44,7 +44,7 @@ header {
 
 .nav ul li a {
     text-decoration: none;
-    padding: 5px 36px;
+    padding: 5px 30px;
     display: block;
     margin-top: 65px;
     color: white;
@@ -304,7 +304,7 @@ header {
 .logo3 {
     width: 15%;
     float: left;
-    margin: 63px 72px;
+    margin: 61px 60px;
 
 }
 
@@ -359,7 +359,7 @@ footer {
 
 .footer_nav {
     float: right;
-    margin-right: 110px;
+    margin-right: 65px;
     padding-top: 6px;
 
 }
